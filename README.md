@@ -71,7 +71,6 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shuv-on&show_icons=true&theme=radical&hide_border=true" height="180"/> -->
   <img src="https://streak-stats.demolab.com?user=shuv-on&theme=radical&hide_border=true" height="180"/>
 </p>
 
