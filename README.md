@@ -5,7 +5,7 @@
   ### Full Stack Developer | Linux Enthusiast | Gnome Extension Developer
 
   <p>
-    <a href="mailto: MD. Shishir Kaysar Shuvon">
+    <a href="mailto: mdshishirkaysarshuvon.ict.mbstu@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/md-shishir-kaysar-shuvon-343793265/">
