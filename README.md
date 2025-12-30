@@ -20,10 +20,10 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate ICT student and a **Full Stack Developer** with a strong foundation in **C, C++, and OOP (Java)**. I love exploring the Linux ecosystem and have experience developing **Gnome Extensions**. Currently, I am focused on building scalable web applications using the **MERN Stack** and solving algorithmic problems using **Python**.
+I am a passionate ICT student and a **Full Stack Developer** with a strong foundation in the **MERN Stack**. I love exploring the Linux ecosystem and have hands-on experience developing **Gnome Extensions**. While my primary focus is building scalable web applications, I also enjoy solving complex algorithmic problems using **C, C++, Java (OOP), and Python**.
 
 ### 🚀 Current Activities
-- 🔭 I’m currently working on a **Tourism Management System** using MERN Stack.
+- 🔭 I’m currently working on a **AssetVerse** using MERN Stack.
 - 🌱 I’m currently exploring **Next.js** for server-side rendering.
 - 🐧 Maintaining and updating my **QR Drop Gnome Extension**.
 - 💡 Solving Data Structure & Algorithm problems on LeetCode/CodeForces.
@@ -55,6 +55,7 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
 **Tools & Environment**
