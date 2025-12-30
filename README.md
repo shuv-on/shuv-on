@@ -5,15 +5,15 @@
   ### Full Stack Developer | Linux Enthusiast | Gnome Extension Developer
 
   <p>
-    <a href="mailto: mdshishirkaysarshuvon.ict.mbstu@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:mdshishirkaysarshuvon.ict.mbstu@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mdshishirkaysarshuvon-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/md-shishir-kaysar-shuvon-343793265/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
      <a href="tel:+8801788297749">
-  <img src="https://img.shields.io/badge/Contact-%2B8801788297749-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-</a>
+      <img src="https://img.shields.io/badge/Contact-%2B8801788297749-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
   </p>
 </div>
 
@@ -23,7 +23,7 @@
 I am a passionate ICT student and a **Full Stack Developer** with a strong foundation in the **MERN Stack**. I love exploring the Linux ecosystem and have hands-on experience developing **Gnome Extensions**. While my primary focus is building scalable web applications, I also enjoy solving complex algorithmic problems using **C, C++, Java (OOP), and Python**.
 
 ### 🚀 Current Activities
-- 🔭 I’m currently working on a **AssetVerse** using MERN Stack.
+- 🔭 I’m currently working on **AssetVerse** using MERN Stack.
 - 🌱 I’m currently exploring **Next.js** for server-side rendering.
 - 🐧 Maintaining and updating my **QR Drop Gnome Extension**.
 - 💡 Solving Data Structure & Algorithm problems on LeetCode/CodeForces.
@@ -71,16 +71,15 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuv-on&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=shuv-on&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shuv-on&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=shuv-on&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuv-on&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuv-on&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 
 ---
 <div align="center">
-    <p>Let's connect and build something amazing together!p</p>
+    <p>Let's connect and build something amazing together!</p>
 </div>
