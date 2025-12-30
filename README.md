@@ -70,10 +70,15 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuv-on&theme=radical" alt="Streak" height="180"/>
-<img src="https://github-profile-trophy.vercel.app/?username=shuv-on&theme=radical&no-frame=true&no-bg=true" alt="Trophy" height="180"/>
-</div>
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shuv-on&show_icons=true&theme=radical&hide_border=true" height="180"/> -->
+  <img src="https://streak-stats.demolab.com?user=shuv-on&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuv-on&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
 
 ---
 <div align="center">
