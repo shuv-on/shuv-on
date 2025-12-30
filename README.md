@@ -82,5 +82,5 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
 
 ---
 <div align="center">
-    <p>Let's connect and build something amazing together!</p>
+    <p>Let's connect and build something amazing together!p</p>
 </div>
