@@ -8,7 +8,7 @@
     <a href="mailto:mdshishirkaysarshuvon.ict.mbstu@gmail.com">
       <img src="https://img.shields.io/badge/Email-mdshishirkaysarshuvon-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/md-shishir-kaysar-shuvon-343793265/">
+    <a href="https://www.linkedin.com/in/shishir-kaysar-shuvon/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
      <a href="tel:+8801788297749">
