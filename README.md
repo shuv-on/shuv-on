@@ -71,12 +71,15 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuv-on&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=shuv-on&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuv-on&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuv-on&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shuv-on&theme=radical" alt="Top Languages" />
 </p>
 
 ---
