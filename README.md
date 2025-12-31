@@ -85,7 +85,10 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
 
 ---
 <div align="center">
-    <img src="https://raw.githubusercontent.com/shuv-on/shuv-on/output/github-contribution-grid-snake.svg"/>
+    <p>
+     <img src="https://raw.githubusercontent.com/shuv-on/shuv-on/output/github-contribution-grid-snake.svg"/>
+    </p>
+   
 </div>
 <div align="center">
     <p>Let's connect and build something amazing together!</p>
