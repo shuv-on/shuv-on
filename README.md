@@ -82,7 +82,11 @@ I am a passionate ICT student and a **Full Stack Developer** with a strong found
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shuv-on&theme=radical" alt="Top Languages" />
 </p>
 
+
 ---
+<div align="center">
+    <img src="https://raw.githubusercontent.com/shuv-on/shuv-on/output/github-contribution-grid-snake.svg"/>
+</div>
 <div align="center">
     <p>Let's connect and build something amazing together!</p>
 </div>
